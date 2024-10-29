@@ -12,3 +12,7 @@ importFrom(ggplot2,theme_bw)
 importFrom(stringr,boundary)
 importFrom(stringr,str_count)
 importFrom(stringr,str_split)
+
+export(extract_codons)
+export(generate_dna_sequence)
+export(generate_protein_sequence)
