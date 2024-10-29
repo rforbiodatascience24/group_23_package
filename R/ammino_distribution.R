@@ -1,5 +1,6 @@
 #' Amminoacids distribution
-#'
+#' @importFrom ggplot2 ggplot aes geom_col theme_bw theme
+#' @importFrom stringr str_split boundary str_count
 #' @param ammino_sequence String containing an sequence of amminoacids
 #'
 #' @return Bar diagram showing the distribution of amminoacids in the input string

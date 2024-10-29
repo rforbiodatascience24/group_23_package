@@ -2,4 +2,13 @@
 
 export(ammino_distribution)
 export(dna_transcription)
+export(extract_codons)
 export(generate_dna_sequence)
+importFrom(ggplot2,aes)
+importFrom(ggplot2,geom_col)
+importFrom(ggplot2,ggplot)
+importFrom(ggplot2,theme)
+importFrom(ggplot2,theme_bw)
+importFrom(stringr,boundary)
+importFrom(stringr,str_count)
+importFrom(stringr,str_split)
