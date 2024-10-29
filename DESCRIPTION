@@ -1,0 +1,22 @@
+Package: biodogma
+Type: Package
+Title: Central dogma of molecular biology
+Version: 0.1.0
+Authors@R:
+  c(person(given = "Gaia",
+           family = "Marraffa",
+           role = c("aut", "cre"), 
+           email = "s242160@dtu.dk"), 
+    person(given = "Gioele",
+           family = "Tiraboschi",
+           role = "aut",
+           email = "s242150@dtu.dk"),
+   person(given = "Natalia",
+          family = "Najuch",
+          role = "aut",
+          email = "s243057@dtu.dk"))
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: This package will replicate the central dogma of molecular biology
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
